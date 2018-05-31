@@ -2,6 +2,6 @@
 لتصيب بوت الجهات 
 اضف في تيرمنل الكود
 
-git clone https://github.com/alaajs/alaa && cd alaa && chmod +x install.sh && ./install.sh
+git clone https://github.com/alaajs.git && cd alaa && chmod +x install.sh && ./install.sh
 
 ودوس انتر راح يطلب منك رقم ومبروك اسرع بوت جهات
